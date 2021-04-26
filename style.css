@@ -67,7 +67,7 @@ li a:hover {
 }
 button  {
     display: flex;
-    transform: translate(520%,100%);
+    transform: translate(525%,100%);
     border-radius: 100px;
     text-decoration: none;
     transition: 1s;
